@@ -1,0 +1,2 @@
+include ':FuzzyQuery'
+include 'app', 'zxing'

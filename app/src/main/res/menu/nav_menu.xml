@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--checkableBehavior只能点击一个-->
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/cwgl"
+            android:color="#FFFFFF"
+            android:title="@string/cwgl" />
+        <item
+            android:id="@+id/cggl"
+            android:color="#FFFFFF"
+            android:title="@string/cggl" />
+        <item
+            android:id="@+id/ccgl"
+            android:color="#FFFFFF"
+            android:title="@string/ccgl" />
+        <item
+            android:id="@+id/cqxg"
+            android:color="#FFFFFF"
+            android:title="@string/cqxg" />
+        <item
+            android:id="@+id/jxzz"
+            android:color="#FFFFFF"
+            android:title="@string/jxzz" />
+        <item
+            android:id="@+id/lcgl"
+            android:color="#FFFFFF"
+            android:title="@string/lcgl" />
+        <item
+            android:id="@+id/qygl"
+            android:color="#FFFFFF"
+            android:title="@string/qygl" />
+        <item
+            android:id="@+id/rlzy"
+            android:color="#FFFFFF"
+            android:title="@string/rlzy" />
+        <item
+            android:id="@+id/yjxg"
+            android:color="#FFFFFF"
+            android:title="@string/yjxg" />
+        <item
+            android:id="@+id/scgl"
+            android:color="#FFFFFF"
+            android:title="@string/scgl" />
+        <item
+            android:id="@+id/zlgl"
+            android:color="#FFFFFF"
+            android:title="@string/zlgl" />
+        <item
+            android:id="@+id/qywh"
+            android:color="#FFFFFF"
+            android:title="@string/qywh" />
+        <item
+            android:id="@+id/glzd"
+            android:color="#FFFFFF"
+            android:title="@string/glzd" />
+        <item
+            android:id="@+id/qa"
+            android:color="#FFFFFF"
+            android:title="@string/qa" />
+        <item
+            android:id="@+id/qt"
+            android:color="#FFFFFF"
+            android:title="@string/qt" />
+    </group>
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/wrapped_search"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@null"
+    android:cursorVisible="true"
+    android:focusable="true"
+    android:hint="输入姓名或字母进行查询"
+    android:inputType="text"
+    android:padding="10dp"
+    android:textColorHint="#9E9E9E"
+    android:textCursorDrawable="@null"
+    android:textSize="15sp" />
